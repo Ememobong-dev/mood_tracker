@@ -18,7 +18,7 @@ export const Navbar = () => {
           <Image src={avartar} className="object-cover w-10 h-10 rounded-full" alt="logo" />
         </div>
         <span>
-          <DownOutlined size={8} />
+          <DownOutlined style={{ fontSize: "12px" }} />
         </span>
         
       </div>
