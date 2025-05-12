@@ -6,7 +6,7 @@ import { DownOutlined } from "@ant-design/icons";
 
 export const Navbar = () => {
   return (
-    <div className="flex w-full justify-between items-center bg-transparent fixed top-0 py-14 px-28">
+    <div className="flex w-full bg-blu justify-between items-center bg-transparent fixed top-0 py-14 px-28">
       <div className="flex gap-5 items-center">
         <span>
           <Image src={emotion_logo} className="w-10 h-10" alt="logo" />
